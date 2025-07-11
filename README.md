@@ -23,28 +23,28 @@ An Kanban board project built with React + Tailwind CSS + React-redux + DND tool
 
 
 ## Home Page
-<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/home.png" alt="c" width="100%" height="100%" />
+<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/home.png" />
 
 ## Create Project Page
-<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/createproject.png" alt="c" width="100%" height="100%" />
+<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/createproject.png" />
 
 ## Project View Page
-<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/projectview.png" alt="c" width="100%" height="100%" />
+<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/projectview.png" />
 
 ## Edit Project Page
-<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/editproject.png" alt="c" width="100%" height="100%" />
+<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/editproject.png" />
 
 ## Create Task Page
-<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/createdtask.png" alt="c" width="100%" height="100%" />
+<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/createdtask.png" />
 
 ## Edit Task Page
-<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/edittask.png" alt="c" width="100%" height="100%" />
+<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/edittask.png" />
 
 ## Fullscreen View Page
-<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/fullscreen.png" alt="c" width="100%" height="100%" />
+<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/fullscreen.png" />
 
 ## Delete Page
-<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/delete.png" alt="c" width="100%" height="100%" />
+<img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/assets/New%20folder/delete.png" />
 
 
 ## Github Repo

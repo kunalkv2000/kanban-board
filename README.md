@@ -1,4 +1,4 @@
-<p><a target="_blank" href="https://kanban-board-ks.netlify.app/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/bento/feature.png" alt="c" width="100%" height="100%" /></a>
+<p><a target="_blank" href="https://kanban-board-ks.netlify.app/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kunalkv2000/kanban-board/refs/heads/main/public/bento/feature.png"/></a>
 
 # Kanban Board made with React.js
 An Kanban board project built with React + Tailwind CSS + React-redux + DND toolkit. Create a New Project, Add Task, and Add Description. Update the task status (todo -> in process -> done) using react-dnd (drag and drop). Manage Task & Projects using Edit, Delete functions. The Task and Projects are saved into LocalStorage.
